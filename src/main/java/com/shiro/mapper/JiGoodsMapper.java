@@ -1,0 +1,9 @@
+package com.shiro.mapper;
+
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.shiro.entity.JiGoods;
+import org.apache.ibatis.annotations.Mapper;
+
+@Mapper
+public interface JiGoodsMapper  extends BaseMapper<JiGoods> {
+}
