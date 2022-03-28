@@ -55,11 +55,4 @@ public class test {
         return result.toString();
     }
 
-    @Test
-    public void test2(){
-        if(1==null){
-
-        }
-
-    }
 }
